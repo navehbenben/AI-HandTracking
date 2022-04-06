@@ -1,4 +1,4 @@
-#first step Project
+#6.4.22
 
 import cv2
 import mediapipe as mp
